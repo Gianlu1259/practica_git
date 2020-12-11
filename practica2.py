@@ -24,6 +24,6 @@ if len(final) > 0 :
     print(final)
 
 else:
-    print("no hay repeticiones")
+    print("sin repeticiones")
 
 
